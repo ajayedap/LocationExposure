@@ -16,7 +16,7 @@ public class LocationActivity extends Activity {
 	private TextView textView;
 	private RelativeLayout relativeLayout;
 	private LocationManager locManager;
-	private int[] colors = {Color.RED, Color.GREEN};
+	private int[] colors = {Color.RED, Color.BLUE};
 	private int whichColor;
 	
     @Override
